@@ -1,6 +1,6 @@
 # JavaAdvancedCourse
 Hello in this repository you can see all solved problems by me from Java Advanced course in Software University. 
-<img align="center" src="(https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/733dd2bc-1af4-41bb-ade5-f3018f63f2f0)"/>
+![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/071a4d34-9fad-452a-a92d-ec5b7a1e761a)
 
 # Тhe skills I gained after completing the course:
 ➡️ Creating linear data structures
