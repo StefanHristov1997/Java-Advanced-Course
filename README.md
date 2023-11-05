@@ -15,6 +15,6 @@ Hello in this repository you can see all solved problems by me from Java Advance
 ➡️ Working with multidimensional and associative data structures
 
 #  My certificate after the course
-<[img align = "center"] src = "![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)">/
+                                         ![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)
 
 
