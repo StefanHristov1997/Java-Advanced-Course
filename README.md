@@ -1,6 +1,5 @@
 # JavaAdvancedCourse
-Hello in this repository you can see all solved problems by me from Java Advanced course in Software University.
-![image](https://github.com/StefanHristov1997/ProgrammingInBasicsCourse/assets/133797718/556f0b58-868f-4a67-a076-f0a348e08b16)
+Hello in this repository you can see all solved problems by me from Java Advanced course in Software University. ![image](https://github.com/StefanHristov1997/ProgrammingInBasicsCourse/assets/133797718/556f0b58-868f-4a67-a076-f0a348e08b16)
 
 # Тhe skills I gained after completing the course:
 ➡️ Creating linear data structures
