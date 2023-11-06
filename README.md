@@ -1,5 +1,5 @@
 # JavaAdvancedCourse
-Hello in this repository you can see all solved problems by me from Java Advanced course in Software University. 
+Hello, in this repository you can see my solved problems from Java Advanced course topics in Software University.
 ![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98)
 
 # Тhe skills I gained after completing the course:
