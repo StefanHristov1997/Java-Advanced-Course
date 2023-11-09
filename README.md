@@ -1,21 +1,21 @@
 # JavaAdvancedCourse
-Hello, in this repository you can see my solved problems from Java Advanced course topics in Software University.
-![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98)
+Hello, in this repository are all my solved problems from Java Fundamentals course in Software University. <img src= "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98" width="50" height="50" />
 
-# Тhe skills I gained after completing the course:
-➡️ Creating linear data structures
+### Тhe skills I gained after completing the course:
 
-➡️ Application of functional programming
+👉 Creating linear data structures
 
-➡️ Create template classes
+👉 Application of functional programming
 
-➡️ Application of basic algorithms
+👉 Create template classes
 
-➡️ Work with data streams, files and directories
+👉 Application of basic algorithms
 
-➡️ Working with multidimensional and associative data structures
+👉 Work with data streams, files and directories
 
-#  My certificate after the course
-  ![image](https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)
+👉 Working with multidimensional and associative data structures
+
+### My certificate after the course
+  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="300" height="400" />
 
 
