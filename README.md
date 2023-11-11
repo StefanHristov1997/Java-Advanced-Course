@@ -3,12 +3,12 @@
 <strong> Hello, in this repository are all my solved problems from Java Advanced course in Software University. </strong>
 
 ### Тhe skills I gained after completing the course:
-👉 <storng> Creating linear data structures </strong> </br>
-👉 <storng> Application of functional programming </strong> </br>
+👉 <strong> Creating linear data structures </strong> </br>
+👉 <strong> Application of functional programming </strong> </br>
 👉 <storng> Create template classes </strong> </br>
-👉 <storng> Application of basic algorithms </strong> </br>
-👉 <storng> Work with data streams, files and directories </strong> </br>
-👉 <storng> Working with multidimensional and associative data structures </strong> </br>
+👉 <strong> Application of basic algorithms </strong> </br>
+👉 <strong> Work with data streams, files and directories </strong> </br>
+👉 <strong> Working with multidimensional and associative data structures </strong> </br>
  
 ### My certificate after the course
   <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="300" height="400" />
