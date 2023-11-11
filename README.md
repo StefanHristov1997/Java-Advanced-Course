@@ -5,7 +5,7 @@
 ### Тhe skills I gained after completing the course:
 👉 <strong> Creating linear data structures </strong> </br>
 👉 <strong> Application of functional programming </strong> </br>
-👉 <storng> Create template classes </strong> </br>
+👉 <strong> Create template classes </strong> </br>
 👉 <strong> Application of basic algorithms </strong> </br>
 👉 <strong> Work with data streams, files and directories </strong> </br>
 👉 <strong> Working with multidimensional and associative data structures </strong> </br>
